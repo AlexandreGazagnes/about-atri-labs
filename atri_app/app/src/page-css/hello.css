@@ -1,0 +1,19 @@
+.p-hello.Div6 {
+;
+}
+.p-hello.TextBox6 {
+;
+}
+.p-hello.Form1 {
+display: inline-flex;
+flex-direction: column;
+row-gap: 1em;
+padding: 10px;
+}
+@media screen and (max-width: 478px) {
+	.p-hello.Div6.bpt {
+padding-top: 10px;
+padding-bottom: 10px;
+background-color: #592c2c4d;
+	}
+}

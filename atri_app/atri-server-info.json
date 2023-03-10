@@ -1,0 +1,16 @@
+{
+  "port": 4005,
+  "pythonPort": 4007,
+  "publicDir": "dist/app",
+  "pages": {
+    "/": {
+      "name": "Home"
+    },
+    "/hello": {
+      "name": "hello"
+    }
+  },
+  "publicUrlAssetMap": {
+    "/app-assets": "../assets"
+  }
+}
